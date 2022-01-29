@@ -62,5 +62,16 @@
       <h3>Tehillah Campbell</h3>
       <p>Undergraduate Student in Material Science</p>
   
+  <!-- Footer -->
+  <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
+    <i class="fa fa-facebook-official w3-hover-opacity"></i>
+    <i class="fa fa-instagram w3-hover-opacity"></i>
+    <i class="fa fa-snapchat w3-hover-opacity"></i>
+    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+    <i class="fa fa-twitter w3-hover-opacity"></i>
+    <i class="fa fa-linkedin w3-hover-opacity"></https://www.facebook.com/groups/underrepresentedinai>
+  <!-- End footer -->
+  </footer>
+      
  <!-- End page content -->
 </div>
