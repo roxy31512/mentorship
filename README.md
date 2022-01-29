@@ -63,13 +63,16 @@
       <p>Undergraduate Student in Material Science</p>
   
   <!-- Footer -->
-  <footer class="w3-content w3-padding-64 w3-text-grey w3-xlarge">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-    <i class="fa fa-twitter w3-hover-opacity"></i>
-    <i class="fa fa-linkedin w3-hover-opacity"></https://www.facebook.com/groups/underrepresentedinai>
+<h2>Social Media</h2>
+
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook">https://www.facebook.com/groups/underrepresentedinai</a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-linkedin"></a>
+<a href="#" class="fa fa-youtube"></a>
+      
+</body>
+</html> 
   <!-- End footer -->
   </footer>
       
